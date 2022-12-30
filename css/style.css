@@ -384,8 +384,7 @@ body {
   float: left;
   margin-left: -15px;
 }
-.nav-icon,
-.main-nav-link {
+.nav-icon {
   float: left;
   color: #fff;
   opacity: 0.6;
@@ -398,8 +397,7 @@ body {
   display: block;
   padding: 20px 15px;
 }
-.nav-icon:hover,
-.main-nav-link:hover {
+.nav-icon:hover {
   opacity: 1;
 }
 .nav-icon {
@@ -411,36 +409,6 @@ body {
   padding: 20px 15px;
   position: relative;
   cursor: pointer;
-}
-.main-nav-link {
-  font-weight: 300;
-  letter-spacing: 1px;
-}
-@media screen and (max-width: 479px) {
-  .main-nav-link {
-    display: none;
-  }
-}
-#main-nav-toggle {
-  display: none;
-}
-#main-nav-toggle:before {
-  content: "\f0c9";
-}
-@media screen and (max-width: 479px) {
-  #main-nav-toggle {
-    display: block;
-  }
-}
-#sub-nav {
-  float: right;
-  margin-right: -15px;
-}
-#nav-rss-link:before {
-  content: "\f09e";
-}
-#nav-search-btn:before {
-  content: "\f002";
 }
 #search-form-wrap {
   position: absolute;
