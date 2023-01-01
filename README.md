@@ -9,6 +9,8 @@
 关于在[国内解锁Netflix](https://netflixhz.com/posts/watch-netflix-in-china/
 )的问题，需要先解决科学上网和流媒体账号获取两个部分，其中科学上网工具是至关重要的一环，但这点大家可能已经有了解决方案，暂且不提。而相应的Netflix会员账号，通过【合租平台】获取，可以有效的将订阅费用降低80%，并且获取过程也会简化很多。
 
+去网站观看>>>https://netflix-hezu.github.io/
+
 ## 奈飞合租内容导航
 1. ### [流媒体Netflix合租发车是什么？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93netflix%E5%90%88%E7%A7%9F%E5%8F%91%E8%BD%A6%E6%98%AF%E4%BB%80%E4%B9%88-1)
 2. ### [Netflix奈飞是什么?月费是多少?](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%88%E8%B4%B9%E6%98%AF%E5%A4%9A%E5%B0%91-1)
