@@ -10,19 +10,19 @@
 )的问题，需要先解决科学上网和流媒体账号获取两个部分，其中科学上网工具是至关重要的一环，但这点大家可能已经有了解决方案，暂且不提。而相应的Netflix会员账号，通过【合租平台】获取，可以有效的将订阅费用降低80%，并且获取过程也会简化很多。
 
 ## 奈飞合租内容导航
-1. ### [流媒体Netflix合租发车是什么？](#流媒体Netflix合租发车是什么？-1)
-2. ### [Netflix奈飞是什么?月费是多少?](#Netflix奈飞是什么-月费是多少-1)
-3. ### [Netflix流媒体账号购买渠道有哪些？](#Netflix流媒体账号购买渠道有哪些？-1)
-4. ### [Netflix奈飞合租平台有哪些？](#Netflix奈飞合租平台有哪些？-1)
-5. ### [蜜糖商店Metshop（1~6个月短租首选平台）](#一、蜜糖商店Metshop（1-6个月短租首选平台）)
-6. ### [奈飞小铺与爱合租（6个月以上首选合租平台）](#二、奈飞小铺与爱合租（6个月以上首选合租平台）)
-7. ### [奈飞小镇（短期尝鲜首选平台）](#三、奈飞小镇（短期尝鲜首选平台）)
-8. ### [流媒体合租平台购买流程](#流媒体合租平台购买流程-1)
-9. ### [Netflix账号共享安全吗？](#Netflix账号共享安全吗？-1)
-10. ### [选奈飞合租还是自行用代理注册？](#选奈飞合租还是自行用代理注册？-1)
-11. ### [选奈飞小铺还是蜜糖商店？](#选奈飞小铺还是蜜糖商店？-1)
-12. ### [Netflix合租总结](#Netflix合租总结-1)
-13. ### [相关问题](#相关问题-1)
+1. ### [流媒体Netflix合租发车是什么？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93netflix%E5%90%88%E7%A7%9F%E5%8F%91%E8%BD%A6%E6%98%AF%E4%BB%80%E4%B9%88-1)
+2. ### [Netflix奈飞是什么?月费是多少?](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%88%E8%B4%B9%E6%98%AF%E5%A4%9A%E5%B0%91-1)
+3. ### [Netflix流媒体账号购买渠道有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B-1)
+4. ### [Netflix奈飞合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B-1)
+5. ### [蜜糖商店Metshop（1~6个月短租首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%80%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97metshop16%E4%B8%AA%E6%9C%88%E7%9F%AD%E7%A7%9F%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+6. ### [奈飞小铺与爱合租（6个月以上首选合租平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%8C%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E4%B8%8E%E7%88%B1%E5%90%88%E7%A7%9F6%E4%B8%AA%E6%9C%88%E4%BB%A5%E4%B8%8A%E9%A6%96%E9%80%89%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0)
+7. ### [奈飞小镇（短期尝鲜首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%95%87%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+8. ### [流媒体合租平台购买流程](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B-1)
+9. ### [Netflix账号共享安全吗？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E8%B4%A6%E5%8F%B7%E5%85%B1%E4%BA%AB%E5%AE%89%E5%85%A8%E5%90%97-1)
+10. ### [选奈飞合租还是自行用代理注册？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E8%BF%98%E6%98%AF%E8%87%AA%E8%A1%8C%E7%94%A8%E4%BB%A3%E7%90%86%E6%B3%A8%E5%86%8C-1)
+11. ### [选奈飞小铺还是蜜糖商店？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97-1)
+12. ### [Netflix合租总结](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%90%88%E7%A7%9F%E6%80%BB%E7%BB%93-1)
+13. ### [相关问题](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98-1)
 
 ## 流媒体Netflix合租发车是什么？
 
