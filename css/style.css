@@ -308,7 +308,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 300px;
+  height: 350px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -354,11 +354,11 @@ body {
 }
 #header-title {
   text-align: center;
-  height: 45px;
+  height: 44px;
   position: absolute;
-  top: 44%;
+  top: 40%;
   left: 0;
-  margin-top: -22.5px;
+  margin-top: -22px;
 }
 #logo,
 #subtitle {
@@ -368,17 +368,17 @@ body {
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 44px;
+  line-height: 44px;
   letter-spacing: 2px;
 }
 #subtitle {
-  font-size: 17px;
-  line-height: 17px;
+  font-size: 16px;
+  line-height: 16px;
   letter-spacing: 1px;
 }
 #subtitle-wrap {
-  margin-top: 17px;
+  margin-top: 16px;
 }
 #main-nav {
   float: left;

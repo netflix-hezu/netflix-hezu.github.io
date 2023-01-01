@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /archives/
+Disallow: /posts/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://netflix-hezu.github.io/sitemap.xml
+Sitemap: https://netflix-hezu.github.io/baidusitemap.xml
