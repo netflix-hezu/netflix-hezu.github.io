@@ -15,7 +15,7 @@
 1. ### [流媒体Netflix合租发车是什么？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93netflix%E5%90%88%E7%A7%9F%E5%8F%91%E8%BD%A6%E6%98%AF%E4%BB%80%E4%B9%88-1)
 2. ### [Netflix奈飞是什么?月费是多少?](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%88%E8%B4%B9%E6%98%AF%E5%A4%9A%E5%B0%91-1)
 3. ### [奈飞拼车渠道有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E6%8B%BC%E8%BD%A6%E6%B8%A0%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B-1)
-4. ### [好用的Netflix合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B)
+4. ### [好用的Netflix合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%BD%E7%94%A8%E7%9A%84netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B)
 5. ### [🔥蜜糖商店Metshop（1~6个月短租首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%80%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97metshop16%E4%B8%AA%E6%9C%88%E7%9F%AD%E7%A7%9F%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
 6. ### [🔥奈飞小铺与爱合租（6个月以上首选合租平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%8C%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E4%B8%8E%E7%88%B1%E5%90%88%E7%A7%9F6%E4%B8%AA%E6%9C%88%E4%BB%A5%E4%B8%8A%E9%A6%96%E9%80%89%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0)
 7. ### [🔥银河录像局（短期尝鲜首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
