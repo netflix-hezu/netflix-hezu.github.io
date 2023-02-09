@@ -1,4 +1,4 @@
-# 奈飞Netflix合租平台购买指南：Spotify、Disney+、YouTube等流媒体帐号拼车网站整理2023版
+# Netflix奈飞合租平台购买指南：Spotify、Disney+、YouTube等流媒体帐号拼车网站整理2023版
 
 最近更新：`2023年02月10日`
 
@@ -14,18 +14,18 @@
 ## 奈飞合租内容导航
 1. ### [流媒体Netflix合租发车是什么？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93netflix%E5%90%88%E7%A7%9F%E5%8F%91%E8%BD%A6%E6%98%AF%E4%BB%80%E4%B9%88-1)
 2. ### [Netflix奈飞是什么?月费是多少?](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%88%E8%B4%B9%E6%98%AF%E5%A4%9A%E5%B0%91-1)
-3. ### [奈飞拼车渠道有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E6%B5%81%E5%AA%92%E4%BD%93%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B-1)
-4. ### [好用的Netflix合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B-1)
+3. ### [奈飞拼车渠道有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E6%8B%BC%E8%BD%A6%E6%B8%A0%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B-1)
+4. ### [好用的Netflix合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B)
 5. ### [🔥蜜糖商店Metshop（1~6个月短租首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%80%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97metshop16%E4%B8%AA%E6%9C%88%E7%9F%AD%E7%A7%9F%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
 6. ### [🔥奈飞小铺与爱合租（6个月以上首选合租平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%8C%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E4%B8%8E%E7%88%B1%E5%90%88%E7%A7%9F6%E4%B8%AA%E6%9C%88%E4%BB%A5%E4%B8%8A%E9%A6%96%E9%80%89%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0)
-7. ### [🔥银河录像局（短期尝鲜首选平台）](#三、银河录像局（短期尝鲜首选平台）)
-8. ### [🔥奈飞小镇](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%95%87%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+7. ### [🔥银河录像局（短期尝鲜首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+8. ### [🔥奈飞小镇](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%9B%9B%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%95%87)
 9. ### [流媒体合租平台购买流程](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B-1)
-10. ### [奈飞账号共享靠谱吗？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E8%B4%A6%E5%8F%B7%E5%85%B1%E4%BA%AB%E5%AE%89%E5%85%A8%E5%90%97-1)
+10. ### [奈飞账号共享靠谱吗？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E8%B4%A6%E5%8F%B7%E5%85%B1%E4%BA%AB%E9%9D%A0%E8%B0%B1%E5%90%97-1)
 11. ### [选奈飞合租还是自行用代理注册？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E8%BF%98%E6%98%AF%E8%87%AA%E8%A1%8C%E7%94%A8%E4%BB%A3%E7%90%86%E6%B3%A8%E5%86%8C-1)
 12. ### [选奈飞小铺还是蜜糖商店？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97-1)
-13. ### [奈飞合租总结](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#netflix%E5%90%88%E7%A7%9F%E6%80%BB%E7%BB%93-1)
-14. ### [常见问题](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98-1)
+13. ### [奈飞合租总结](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E6%80%BB%E7%BB%93-1)
+14. ### [常见问题](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-1)
 
 ## 流媒体Netflix合租发车是什么？
 
@@ -87,7 +87,7 @@
 - 合租平台的用户规模达到数万人，运营模式成熟，成立时间较长，所以会相对稳定。
 - 平台提供的账号大多通过礼品卡预付，所以翻车风险很低，即便跑路账号也能存在。
 
-## Netflix奈飞合租平台有哪些？
+## 好用的Netflix奈飞合租平台有哪些？
 
 目前市面上的合租平台已经有很多了，而且由于是中间商的关系，所以最终价格与服务都比较类似，大多都只提供Netflix、[Disney+](https://netflixhz.com/sign-up-for-disney-plus/
 )、YouTube Premium这3个最受欢迎的流媒体的发车，另外还有Spotify 、TIDAL这些全球最流行的[国外音乐在线播放平台](https://netflixhz.com/music-app/
