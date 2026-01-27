@@ -36,7 +36,7 @@
 
 12. ### [选奈飞合租平台还是自行用代理注册？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E8%BF%98%E6%98%AF%E8%87%AA%E8%A1%8C%E7%94%A8%E4%BB%A3%E7%90%86%E6%B3%A8%E5%86%8C-1)
 
-13. ### [选奈飞小铺还是蜜糖商店？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97-1)
+13. ### [选奈飞小铺还是星际放映厅？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97-1)
 
 14. ### [奈飞合租总结](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E6%80%BB%E7%BB%93-1)
 
