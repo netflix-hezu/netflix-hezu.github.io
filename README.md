@@ -20,21 +20,21 @@
 
 4. ### [好用的Netflix合租平台有哪些？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%BD%E7%94%A8%E7%9A%84netflix%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%93%AA%E4%BA%9B)
 
-5. ### [🔥奈飞小铺与爱合租（6个月以上首选合租平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%8C%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E4%B8%8E%E7%88%B1%E5%90%88%E7%A7%9F6%E4%B8%AA%E6%9C%88%E4%BB%A5%E4%B8%8A%E9%A6%96%E9%80%89%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0)
+5. ### [🔥奈飞小铺与爱合租（6个月以上首选合租平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%80%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E4%B8%8E%E7%88%B1%E5%90%88%E7%A7%9F6%E4%B8%AA%E6%9C%88%E4%BB%A5%E4%B8%8A%E9%A6%96%E9%80%89%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0)
 
-6. ### [🔥环球巴士（短期尝鲜首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+6. ### [🔥环球巴士（短期尝鲜首选平台）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%8C%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB%E7%9F%AD%E6%9C%9F%E5%B0%9D%E9%B2%9C%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
 
-7. ### [🔥银河录像局](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%9B%9B%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80)
+7. ### [🔥银河录像局](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%89%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80)
 
-8. ### 🔥[4K奈飞](#4K奈飞)
+8. ### 🔥[4K奈飞](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%9B%9B4k%E5%A5%88%E9%A3%9E)
 
-9. ### [飞行派](五、飞行派)
+9. ### [飞行派](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%94%E9%A3%9E%E8%A1%8C%E6%B4%BE)
 
-10. ### [星际放映厅（已经跑路）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%80%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97metshop16%E4%B8%AA%E6%9C%88%E7%9F%AD%E7%A7%9F%E9%A6%96%E9%80%89%E5%B9%B3%E5%8F%B0)
+10. ### [星际放映厅（已经跑路）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%85%AD%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E5%B7%B2%E7%BB%8F%E8%B7%91%E8%B7%AF)
 
-11. ### [蜜糖商店Metshop（已经跑路）](七、蜜糖商店Metshop（已经跑路）)
+11. ### [蜜糖商店Metshop（已经跑路）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%B8%83%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97metshop%E5%B7%B2%E7%BB%8F%E8%B7%91%E8%B7%AF)
 
-12. ### [奈飞小镇（已经跑路）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E4%BA%94%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%95%87)
+12. ### [奈飞小镇（已经跑路）](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%85%AB%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%95%87%E5%B7%B2%E7%BB%8F%E8%B7%91%E8%B7%AF)
 
 13. ### [流媒体合租平台购买流程](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E6%B5%81%E5%AA%92%E4%BD%93%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B-1)
 
@@ -42,7 +42,7 @@
 
 15. ### [选奈飞合租平台还是自行用代理注册？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0%E8%BF%98%E6%98%AF%E8%87%AA%E8%A1%8C%E7%94%A8%E4%BB%A3%E7%90%86%E6%B3%A8%E5%86%8C-1)
 
-16. ### [选奈飞小铺还是环球巴士？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E8%9C%9C%E7%B3%96%E5%95%86%E5%BA%97-1)
+16. ### [选奈飞小铺还是环球巴士？](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E9%80%89%E5%A5%88%E9%A3%9E%E5%B0%8F%E9%93%BA%E8%BF%98%E6%98%AF%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-1)
 
 17. ### [奈飞合租总结](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%A5%88%E9%A3%9E%E5%90%88%E7%A7%9F%E6%80%BB%E7%BB%93-1)
 
