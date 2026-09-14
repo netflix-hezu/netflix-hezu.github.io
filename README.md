@@ -26,7 +26,7 @@
 
 7. ### [🔥银河录像局](https://github.com/netflix-hezu/netflix-hezu.github.io/blob/main/README.md#%E5%9B%9B%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80)
 
-8. ### 🔥[4K奈飞](#四、4K奈飞)
+8. ### 🔥[4K奈飞](#4K奈飞)
 
 9. ### [飞行派](五、飞行派)
 
